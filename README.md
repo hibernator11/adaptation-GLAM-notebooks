@@ -14,6 +14,8 @@ We employed the material created for the workshop iPRESS conference including a 
 
 We reused the code provided in order to apply it to the GLAM sector, in particular, the digital collection [A Medical History of British India](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/) made available by the National Library of Scotland.
 
+The Google Colab version is available in this [link](https://colab.research.google.com/drive/16DXguKnioH_v5Cp-efQ73Fy-2dfAv6XX?usp=sharing).
+
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
