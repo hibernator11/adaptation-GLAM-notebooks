@@ -17,7 +17,7 @@ We employed the material created for the workshop iPRESS conference including a 
 We reused the code provided in order to apply it to the GLAM sector, in particular, the digital collection [A Medical History of British India](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/) made available by the National Library of Scotland. The Google Colab version is available in this [link](https://colab.research.google.com/drive/16DXguKnioH_v5Cp-efQ73Fy-2dfAv6XX?usp=sharing).
 
 An [additional notebook](reusing_scottish_churches_UKA-BL.ipynb) is provided showing how to reuse the text extracted from the [UK Web Archive](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3). In particular, this notebook is based on the dataset [Scottish Churches](https://bl.iro.bl.uk/concern/datasets/d99a9777-0c28-4a2c-b0f4-c7a43f836b48
-) to compute the frequency distribution of the words included in the description column.
+) to compute the frequency distribution of the words included in the description column. [An adaptation of this notebook](reusing_BNE_thematic.ipynb) is provided to use a metadata dataset provided by the National Library of Spain.
 
 
 ## Licence
