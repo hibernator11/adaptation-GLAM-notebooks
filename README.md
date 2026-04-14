@@ -16,6 +16,10 @@ We reused the code provided in order to apply it to the GLAM sector, in particul
 
 The Google Colab version is available in this [link](https://colab.research.google.com/drive/16DXguKnioH_v5Cp-efQ73Fy-2dfAv6XX?usp=sharing).
 
+An additional notebook is provided showing how to reuse the text extracted from the [UK Web Archive](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3). In particular, this notebook is based on the dataset [Scottish Churches](https://bl.iro.bl.uk/concern/datasets/d99a9777-0c28-4a2c-b0f4-c7a43f836b48
+) to compute the frequency distribution of the words included in the description column.
+
+
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
